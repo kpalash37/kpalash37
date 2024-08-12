@@ -8,8 +8,8 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working as a lead solution developer, and managing team.\
 🌱 &nbsp;I have 12 years of experience in the field of software development.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✍️ &nbsp;Interested in developing solutions for complex business problems through software development.\
+💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or ask me [here](https://github.com/kpalash37/kpalash37/issues).\
 ✉️ &nbsp;You can shoot me an email at palash.kuet@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/kpalash/) for more details about me. I'm open to feedback and suggestions!
 
@@ -17,28 +17,25 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=C#)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=dotnet)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-
-![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)&nbsp; 
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)&nbsp;\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)&nbsp;
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-SharePoint-05122A?style=flat&logo=sharepoint)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)&nbsp;
+![InDesign](https://img.shields.io/badge/-Microsoft%20Suite-05122A?style=flat&logo=microsoft)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
